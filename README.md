@@ -1,9 +1,3 @@
-¡Excelente decisión! En el mundo del software y QA, tener tu perfil en inglés te abre muchísimas más puertas, especialmente para vacantes remotas.
-
-Aquí tienes la versión definitiva en inglés, optimizada con los términos técnicos correctos de la industria:
-
-English Version for README.md
-Markdown
 <div align="center">
 
 # Hi! I'm Erick Pelayo 👋
